@@ -22,3 +22,14 @@ Then you can conduct the untargeted attack for CIFAR-10 evaluation without train
 sh scripts/cifar_unt/TARGET_MODEL
 ```
 
+## Citation
+Please cite our paper in your publications if it helps your research:
+
+```
+@inproceedings{Feng_CGATTACK_2022,
+  title={Boosting Black-Box Attack with Partially Transferred Conditional Adversarial Distribution},
+  author={Feng, Yan and Wu, Baoyuan and Fan, Yanbo and Liu, Li and Li, Zhifeng and Xia, Shutao},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
+```
