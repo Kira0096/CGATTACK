@@ -1,4 +1,4 @@
-This is the code for the CVPR 2022 submission 7175, **Boosting Black-Box Attack with Partially Transferred Conditional Adversarial Distribution**. 
+Official repository for CVPR 2022 paper **Boosting Black-Box Attack with Partially Transferred Conditional Adversarial Distribution**.
 This project is developed based on Python 3.6. 
 
 ## Install prerequisites
